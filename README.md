@@ -11,3 +11,4 @@ The repository is dedicated to my 100 days of code starting from Saturday 26/06/
 |2 | 30/06/2021| Finished on Kotlin functions and Began kotlin objects and classes| |
 |3 | 04/07/2021| Completed Kotlin objects and classes| |
 |4 | 05/07/2021| Began Inheritance - class design| |
+|5 | 07/07/2021|Completed Classes and Objects - Inheritance| |
