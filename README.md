@@ -13,4 +13,4 @@ The repository is dedicated to my 100 days of code starting from Saturday 26/06/
 |4 | 05/07/2021| Began Inheritance - class design| |
 |5 | 07/07/2021|Completed Classes and Objects - Inheritance| |
 |6 | 10/08/2021|Built web blocker using python| |
-|7 | 10/08/2021|Built web map using python| |
+|7 | 11/08/2021|Built web map using python| |
